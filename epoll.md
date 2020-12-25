@@ -94,4 +94,4 @@ linux内核会为这个事件对象维护一个64位的计数器(`uint64_t`).并
 
 [https://www.jianshu.com/p/2704cd87200a](https://www.jianshu.com/p/2704cd87200a)
 
-![image](https://raw.githubusercontent.com/fumeboy/go_practices/main/epoll.png)
+![image](https://raw.githubusercontent.com/fumeboy/go_practice/main/epoll.png)
