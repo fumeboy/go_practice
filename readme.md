@@ -11,3 +11,5 @@
 `交叉编译.md` 交叉编译
 
 `epoll_linux_test.go && epoll.md` epoll 使用演示
+
+`cgo.gc.go` 　Go和C共享内存资源問題
